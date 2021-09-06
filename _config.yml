@@ -1,6 +1,6 @@
 title: Minimal theme
-logo: /01_img/snap_profile_img_reduced_b_carre.png
+logo: /01_img/snap_profile_img_reduced_round.png
 description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
