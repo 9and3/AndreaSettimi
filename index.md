@@ -1,14 +1,18 @@
 Here are the projects I am currently involved in. You can also find my preavious projects and open-sourced works on [my GitHub](https://github.com/9and3) or the [Git of Ibois](https://github.com/ibois-epfl). Otherwise have a look at the website of the research lab in which I currently do my researches, [here](https://www.epfl.ch/labs/ibois/).
 
-### Augmented carpentry
+### Augmented carpentry / IBOIS
 `#TimberConstruction` `#AR` `#DigitalFabrication` `#AugmentedReality` `#AssistedFabrication` `#SmartTools`
 
-This is my main research topic I am currently exploring at IBOIS with [Julien Gamerro](https://people.epfl.ch/julien.gamerro) (post-doc) and [Yves Weinand](https://people.epfl.ch/yves.weinand) (thesis director). 
-The research illustrates the integration and use of ordinary electric tools into a context-aware AR framework for assisting users in timber carpentry task. The research is still at a preliminary stage in which we outline the technical challenges, potential bottlenecks, and accuracy of object-aware and tool-aware AR-assisted fabrication systems. The investigated systems leverage computer vision tools and sensors to empower human workers with robotic-like precision and accuracy. The goal is to allow workers to carry out complex drilling angles operations by following computer-processed feedback instead of drawings, marking or jigs. The research is currently financed by EPFL (Ecole Polythéchnique Fédérale de Lausanne). If you are interested in collaborating on similar topics, please send an email to [andrea.settimi@epfl.ch](andrea.settimi@epfl.ch).
+This is my main research topic I am currently exploring at IBOIS in my PhD Thesis with [Julien Gamerro](https://people.epfl.ch/julien.gamerro) (post-doc) and [Yves Weinand](https://people.epfl.ch/yves.weinand) (thesis director). 
+The research illustrates the integration and use of ordinary electric tools into a context-aware AR framework for assisting users in timber carpentry task. The research is still at a preliminary stage in which we outline the technical challenges, potential bottlenecks, and accuracy of object-aware and tool-aware AR-assisted fabrication systems. The investigated systems leverage computer vision tools and sensors to empower human workers with robotic-like precision and accuracy. The goal is to allow workers to carry out complex drilling angles operations by following computer-processed feedback instead of drawings, marking or jigs. The research is currently financed by EPFL (Ecole Polythéchnique Fédérale de Lausanne). If you are interested in collaborating on similar topics, please send an email to [andrea.settimi@epfl.ch](andrea.settimi@epfl.ch) or my collegue [julien.gamerro@epfl.ch](julien.gamerro@epfl.ch).
 
 ![Image](/01_img/fig_13_integrated_augmented_workshop_NoText.png)
 
-### Cluster ENAC on Hybrid Timber Structures
+### Cluster ENAC on Hybrid Timber Structures / IBOIS / EESD / MANSLAB
+
+
+
+### Cockroach / IBOIS / Petras Vestartas
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
