@@ -1,7 +1,11 @@
-Here are the projects I am currently involved in. You can also find my preavious projects and open-sourced works on [my GitHub](https://github.com/9and3).
-You can use the [editor on GitHub](https://github.com/9and3/andreasettimi.github.io/edit/Master/index.md) to maintain and preview the content for your website in Markdown files.
+Here are the projects I am currently involved in. You can also find my preavious projects and open-sourced works on [my GitHub](https://github.com/9and3) or the [Git of Ibois](https://github.com/ibois-epfl). Otherwise have a look at the website of the research lab in which I currently do my researches, [here](https://www.epfl.ch/labs/ibois/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Augmented carpentry
+`#TimberConstruction` `AR` `#DigitalFabrication` `#AugmentedReality` `#AssistedFabrication` `SmartTools`
+This is my main research topic I am currently exploring at IBOIS with [Julien Gamerro] (post-doc) and Yves Weinand (thesis director). 
+The research illustrates the integration and use of ordinary electric tools into a context-aware AR framework for assisting users in timber carpentry task. The research is still at a preliminary stage in which we outline the technical challenges, potential bottlenecks, and accuracy of object-aware and tool-aware AR-assisted fabrication systems. The investigated systems leverage computer vision tools and sensors to empower human workers with robotic-like precision and accuracy. The goal is to allow workers to carry out complex drilling angles operations by following computer-processed feedback instead of drawings, marking or jigs. The research is currently financed by EPFL (Ecole Polythéchnique Fédérale de Lausanne).
+
+![Image](/img/fig_13_integrated_augmented_workshop_NoText.png)
 
 ### Markdown
 
