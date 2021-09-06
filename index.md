@@ -1,5 +1,3 @@
-## Current projects
-
 Here are the projects I am currently involved in. You can also find my preavious projects and open-sourced works on [my GitHub](https://github.com/9and3).
 You can use the [editor on GitHub](https://github.com/9and3/andreasettimi.github.io/edit/Master/index.md) to maintain and preview the content for your website in Markdown files.
 
