@@ -40,6 +40,9 @@ This is a project in collaboration with [Petras Vestartas](https://people.epfl.c
 
 ### Current Teaching
 
+`#Coding`
+`#ComputationalDesign`
+
 ### New Publications
 
 ### About my formation
