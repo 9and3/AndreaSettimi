@@ -95,3 +95,5 @@ I was born in 1993 in Perugia, Italy. After graduating from a scientific Liceo I
 
 Do not hesitate to contact me for just a question, say hi or discuss about potential collaboration: [andrea.setttimi@epfl.ch](andrea.setttimi@epfl.ch) or [andreasettimi39@gmail.com](andreasettimi39@gmail.com). 
 
+![augmented_workspace](/01_img/finland_carpenter_round.png)
+
