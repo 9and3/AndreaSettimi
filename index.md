@@ -29,7 +29,6 @@ The cluster ENAC grant is a project in collaboration with [Julien Gamerro](https
 Traditional hybrid stone-timber structures are part of an ancient craftsmanship heritage which is labor-intensive and requires qualified workers. Nevertheless, these dry and glue-free construction systems using locally available materials have all the qualities defined today as sustainable: reuse of mineral waste, low embodied energy, low embodied water content, demountable, cement-free; and moreover earthquake-resistant. Therefore, the main objective of this research is to draw inspiration from this traditional construction method to propose ecological and sustainable stone-timber structures that meet the requirements of modern buildings. Today’s advanced digital tools are leveraged to develop an automated design-production framework to generate new designs, reduce labor intensity, and optimize cost-effectiveness. Furthermore, developing such a framework is central to bridge the historical, theoretical and practical knowledge to foster new architectural expressions. New engineering methods are also investigated to go beyond the rather empirical knowledge based on heuristic rules for traditional constructions and define a clear and precise structural design approach. This project is financed by EPFL ENAC Cluster Grant.
 
 ![scan_wall](/02_vid_gif/vid_scanning_robot.gif)
-![scan_wall](/01_img/stoneSample.png)
 
 ======
 
