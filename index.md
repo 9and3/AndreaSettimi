@@ -1,5 +1,6 @@
 Here are the projects I am currently involved in. You can also find my preavious projects and open-sourced works on [my GitHub](https://github.com/9and3) or the [Git of Ibois](https://github.com/ibois-epfl). Otherwise have a look at the website of the research lab in which I currently do my researches, [here](https://www.epfl.ch/labs/ibois/).
 
+/////////////////////////////////////
 
 ## Augmented carpentry
 
@@ -15,7 +16,7 @@ The research illustrates the integration and use of ordinary electric tools into
 
 ![augmented_workspace](/01_img/fig_13_integrated_augmented_workshop_NoText.png)
 
-======
+/////////////////////////////////////
 
 ## Cluster ENAC on Hybrid Timber Structures
 
@@ -30,7 +31,7 @@ Traditional hybrid stone-timber structures are part of an ancient craftsmanship 
 
 ![scan_wall](/02_vid_gif/vid_scanning_robot.gif)
 
-======
+/////////////////////////////////////
 
 ## Cockroach
 
@@ -43,7 +44,7 @@ You can find the Rhino Plug-in [here] (https://www.food4rhino.com/en/app/cockroa
 
 ![scan_toruntable](/02_vid_gif/stone_wall_digital.gif)
 
-======
+/////////////////////////////////////
 
 ## Current Teaching
 
@@ -65,7 +66,7 @@ The teaching team is composed by [Julien Gamerro](https://people.epfl.ch/julien.
 The course is lead by [Andò Edward Carlo Giorgio](https://people.epfl.ch/edward.ando?lang=fr) (Professor, from Université Grenoble Alpes) at EPFL.
 This course will arm students with knowledge of different imaging techniques for practical use to make measurements in many different fields of civil engineering. Modalities will range from satellite and drone imaging all the way down to microscopy and x-ray tomography with practical sessions.
 
-======
+/////////////////////////////////////
 
 ## New Publications
 
@@ -82,13 +83,13 @@ This course will arm students with knowledge of different imaging techniques for
 Authors: [Andrea Settimi] (https://people.epfl.ch/andrea.settimi?lang=en) (PhD, IBOIS), [Julien Gamerro](https://people.epfl.ch/julien.gamerro) (PostDoc, IBOIS), [Yves Weinand](https://people.epfl.ch/yves.weinand) (Thesis Director, IBOIS).
 The paper illustrates a preliminary study to outline the technical challenges, potential bottlenecks, and accuracy of an AR framework for assisting users in timber drilling task. The designed workflow leverages computer vision tools and sensors to implement an inside-out tracking technique for retrofitted drills based on a reverseengineering approach. The goal is to allow workers to carry out complex drilling angles operations by following computer-processed feedback instead of drawings, marking or jigs. First, the developed methodology is presented with its different devices and functioning phases. Second, this first proof of concept is evaluated with an experimental campaign consisting in 3D scanning the produced perforations and comparing the discrepancies with their respective 3D execution models. In the conclusions, the paper outlines further improvements of the proposed tool-aware fabrication process, and clarifies the possible role to play of augmented carpentry in the near future digital fabrication landscape.
 
-======
+/////////////////////////////////////
 
 ## About my formation
 
 I was born in 1993 in Perugia, Italy. After graduating from a scientific Liceo I moved in Belgium where I did my Bachelor in Architecture at ULB - La Cambre Horta. In 2016 I did a one-year master in timber construction and technology at the Wood Program, Aalto University, Finland. Next I worked as an architect in Bosshard Vaquer Architekten office, in Zürich. I than obtained my Master in Architecture at EPFL (Ecole Polythéchnique Fédérale de Lausanne), where in 2020 I started my PhD at IBOIS (Laboratory for Timber Construction) in Augmented Reality in timber construction.
 
-======
+/////////////////////////////////////
 
 ## Contact
 
